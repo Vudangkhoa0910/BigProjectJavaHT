@@ -44,7 +44,7 @@ Phần mềm sẽ giúp quản lý dịch vụ, chi phí của khách hàng khi 
    Bước 4: Đăng Nhập:  
        + User    : admin  
        + Password: admin  
-   ![Login](https://i.imgur.com/lET05GH.png) 
+![Login](https://i.imgur.com/lET05GH.png) 
    Bước 5: Sử dụng các tính năng ở bên trong  
 ### 3. Giao diện chính bên trong:
     Hiển thị toàn bộ chức năng: 
@@ -56,6 +56,7 @@ Phần mềm sẽ giúp quản lý dịch vụ, chi phí của khách hàng khi 
       + Sort: Sắp xếp danh sách xem theo Tên hoặc theo số CCCD
       + Search: Tìm kiếm (Gần đúng theo chữ cái, số CCCD)
 ![All](https://imgur.com/ZcWkDSf.png)
+
       + Show: Hiển thị toàn bộ thông tin
 ![Show](https://i.imgur.com/vU0jhP9.png)
    
