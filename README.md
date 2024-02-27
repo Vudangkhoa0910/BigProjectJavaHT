@@ -63,7 +63,7 @@ Phần mềm sẽ giúp quản lý dịch vụ, chi phí của khách hàng khi 
 ### 4. Xem file lưu trữ database: 
 + Mở thư mục khi tải Project -> Tìm file customer.xml -> Run with vscode, notepad,...
        ![DATACUSTOMER](https://i.imgur.com/ZpJlT7c.png)
-       ![DATAROOM](https://i.imgur.com/undefined.png)
+       ![DATAROOM](https://i.imgur.com/HHXHjmF.png)
       
 
 ## Code Nguồn Phát Triển
