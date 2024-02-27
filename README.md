@@ -44,8 +44,7 @@ Phần mềm sẽ giúp quản lý dịch vụ, chi phí của khách hàng khi 
    Bước 4: Đăng Nhập:  
        + User    : admin  
        + Password: admin  
-   //![Login](https://i.imgur.com/lET05GH.png) 
-   <img src="https://i.imgur.com/lET05GH" alt="Login" width="850" />
+   ![Login](https://i.imgur.com/lET05GH.png) 
    Bước 5: Sử dụng các tính năng ở bên trong  
 ### 3. Giao diện chính bên trong:
     Hiển thị toàn bộ chức năng: 
@@ -56,9 +55,9 @@ Phần mềm sẽ giúp quản lý dịch vụ, chi phí của khách hàng khi 
       + Pay: Thanh toán hoá đơn
       + Sort: Sắp xếp danh sách xem theo Tên hoặc theo số CCCD
       + Search: Tìm kiếm (Gần đúng theo chữ cái, số CCCD)
-![All](https://imgur.com/ZcWkDSf.png)
+![All](https://imgur.com/ZcWkDSf.png){:width="50%"}
       + Show: Hiển thị toàn bộ thông tin
-![Show](https://i.imgur.com/vU0jhP9.png)
+![Show](https://i.imgur.com/vU0jhP9.png){:width="50%"}
    
 ### 4. Xem file lưu trữ database: 
 + Mở thư mục khi tải Project -> Tìm file customer.xml -> Run with vscode, notepad,...
