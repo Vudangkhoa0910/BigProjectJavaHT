@@ -55,9 +55,9 @@ Phần mềm sẽ giúp quản lý dịch vụ, chi phí của khách hàng khi 
       + Pay: Thanh toán hoá đơn
       + Sort: Sắp xếp danh sách xem theo Tên hoặc theo số CCCD
       + Search: Tìm kiếm (Gần đúng theo chữ cái, số CCCD)
-      ![All](https://imgur.com/pEJRw9M)
+    ![All](https://imgur.com/pEJRw9M)
       + Show: Hiển thị toàn bộ thông tin
-      ![Show](https://imgur.com/vU0jhP9)
+    ![Show](https://imgur.com/vU0jhP9)
    
 ### 4. Xem file lưu trữ database: 
 + Mở thư mục khi tải Project -> Tìm file customer.xml -> Run with vscode, notepad,...
