@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customerXML>
+    <customerXML>
+        <bookingDate>2024-02-05T23:10:09.524590300</bookingDate>
+        <cccd>1</cccd>
+        <name>Vu Van Manh</name>
+        <phoneNumber>1</phoneNumber>
+        <roomNumber>D00</roomNumber>
+        <roomType>Double Room</roomType>
+    </customerXML>
+    <customerXML>
+        <bookingDate>2024-02-07T20:26:24.415152</bookingDate>
+        <cccd>2</cccd>
+        <name>Vu Van Chuong</name>
+        <phoneNumber>2</phoneNumber>
+        <roomNumber>S00</roomNumber>
+        <roomType>Single Room</roomType>
+    </customerXML>
+    <customerXML>
+        <bookingDate>2024-02-07T20:26:35.466653</bookingDate>
+        <cccd>25</cccd>
+        <name>Vu Van Hung</name>
+        <phoneNumber>32</phoneNumber>
+        <roomNumber>V00</roomNumber>
+        <roomType>VIP Room</roomType>
+    </customerXML>
+    <customerXML>
+        <bookingDate>2024-02-07T20:27:03.984130</bookingDate>
+        <cccd>123</cccd>
+        <name>Vu Dang Khoa</name>
+        <phoneNumber>868</phoneNumber>
+        <roomNumber>V01</roomNumber>
+        <roomType>VIP Room</roomType>
+    </customerXML>
+    <customerXML>
+        <bookingDate>2024-02-07T21:19:43.230970</bookingDate>
+        <cccd>868</cccd>
+        <name>Vu Dang Khoa</name>
+        <phoneNumber>987</phoneNumber>
+        <roomNumber>V02</roomNumber>
+        <roomType>VIP Room</roomType>
+    </customerXML>
+</customerXML>

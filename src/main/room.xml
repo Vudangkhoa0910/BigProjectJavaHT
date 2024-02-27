@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<roomXML>
+    <listRoom>
+        <roomNumber>S00</roomNumber>
+        <roomStatus>true</roomStatus>
+        <roomType>Single Room</roomType>
+    </listRoom>
+    <listRoom>
+        <roomNumber>S01</roomNumber>
+        <roomStatus>true</roomStatus>
+        <roomType>Single Room</roomType>
+    </listRoom>
+    <listRoom>
+        <roomNumber>S02</roomNumber>
+        <roomStatus>false</roomStatus>
+        <roomType>Single Room</roomType>
+    </listRoom>
+    <listRoom>
+        <roomNumber>S03</roomNumber>
+        <roomStatus>false</roomStatus>
+        <roomType>Single Room</roomType>
+    </listRoom>
+    <listRoom>
+        <roomNumber>S04</roomNumber>
+        <roomStatus>false</roomStatus>
+        <roomType>Single Room</roomType>
+    </listRoom>
+    <listRoom>
+        <roomNumber>S05</roomNumber>
+        <roomStatus>false</roomStatus>
+        <roomType>Single Room</roomType>
+    </listRoom>
+    <listRoom>
+        <roomNumber>S06</roomNumber>
+        <roomStatus>false</roomStatus>
+        <roomType>Single Room</roomType>
+    </listRoom>
+    <listRoom>
+        <roomNumber>S07</roomNumber>
+        <roomStatus>false</roomStatus>
+        <roomType>Single Room</roomType>
+    </listRoom>
+    <listRoom>
+        <roomNumber>S08</roomNumber>
+        <roomStatus>false</roomStatus>
+        <roomType>Single Room</roomType>
+    </listRoom>
+    <listRoom>
+        <roomNumber>S09</roomNumber>
+        <roomStatus>false</roomStatus>
+        <roomType>Single Room</roomType>
+    </listRoom>
+    <listRoom>
+        <roomNumber>D00</roomNumber>
+        <roomStatus>true</roomStatus>
+        <roomType>Double Room</roomType>
+    </listRoom>
+    <listRoom>
+        <roomNumber>D01</roomNumber>
+        <roomStatus>false</roomStatus>
+        <roomType>Double Room</roomType>
+    </listRoom>
+    <listRoom>
+        <roomNumber>D02</roomNumber>
+        <roomStatus>false</roomStatus>
+        <roomType>Double Room</roomType>
+    </listRoom>
+    <listRoom>
+        <roomNumber>D03</roomNumber>
+        <roomStatus>false</roomStatus>
+        <roomType>Double Room</roomType>
+    </listRoom>
+    <listRoom>
+        <roomNumber>D04</roomNumber>
+        <roomStatus>false</roomStatus>
+        <roomType>Double Room</roomType>
+    </listRoom>
+    <listRoom>
+        <roomNumber>D05</roomNumber>
+        <roomStatus>false</roomStatus>
+        <roomType>Double Room</roomType>
+    </listRoom>
+    <listRoom>
+        <roomNumber>D06</roomNumber>
+        <roomStatus>false</roomStatus>
+        <roomType>Double Room</roomType>
+    </listRoom>
+    <listRoom>
+        <roomNumber>D07</roomNumber>
+        <roomStatus>false</roomStatus>
+        <roomType>Double Room</roomType>
+    </listRoom>
+    <listRoom>
+        <roomNumber>D08</roomNumber>
+        <roomStatus>false</roomStatus>
+        <roomType>Double Room</roomType>
+    </listRoom>
+    <listRoom>
+        <roomNumber>D09</roomNumber>
+        <roomStatus>false</roomStatus>
+        <roomType>Double Room</roomType>
+    </listRoom>
+    <listRoom>
+        <roomNumber>V00</roomNumber>
+        <roomStatus>true</roomStatus>
+        <roomType>VIP Room</roomType>
+    </listRoom>
+    <listRoom>
+        <roomNumber>V01</roomNumber>
+        <roomStatus>true</roomStatus>
+        <roomType>VIP Room</roomType>
+    </listRoom>
+    <listRoom>
+        <roomNumber>V02</roomNumber>
+        <roomStatus>true</roomStatus>
+        <roomType>VIP Room</roomType>
+    </listRoom>
+    <listRoom>
+        <roomNumber>V03</roomNumber>
+        <roomStatus>false</roomStatus>
+        <roomType>VIP Room</roomType>
+    </listRoom>
+    <listRoom>
+        <roomNumber>V04</roomNumber>
+        <roomStatus>false</roomStatus>
+        <roomType>VIP Room</roomType>
+    </listRoom>
+    <listRoom>
+        <roomNumber>V05</roomNumber>
+        <roomStatus>false</roomStatus>
+        <roomType>VIP Room</roomType>
+    </listRoom>
+    <listRoom>
+        <roomNumber>V06</roomNumber>
+        <roomStatus>false</roomStatus>
+        <roomType>VIP Room</roomType>
+    </listRoom>
+    <listRoom>
+        <roomNumber>V07</roomNumber>
+        <roomStatus>false</roomStatus>
+        <roomType>VIP Room</roomType>
+    </listRoom>
+    <listRoom>
+        <roomNumber>V08</roomNumber>
+        <roomStatus>false</roomStatus>
+        <roomType>VIP Room</roomType>
+    </listRoom>
+    <listRoom>
+        <roomNumber>V09</roomNumber>
+        <roomStatus>false</roomStatus>
+        <roomType>VIP Room</roomType>
+    </listRoom>
+</roomXML>
